@@ -1,0 +1,9 @@
+Tripartite organization of brain state dynamics underlying spoken narrative comprehension.  Liu Lanfang,   Jiang Jiahao, Hehui Li,  Guosheng Ding
+
+
+Naming for the nine  networks:  
+{'frontal-parietal',' auditory','language','medial temporal','somatomotor','ventral attention','DMN','visual','subcortical'};
+
+
+
+
