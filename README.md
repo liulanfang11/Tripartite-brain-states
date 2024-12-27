@@ -1,4 +1,4 @@
-The folder contains the task stimuli, behavioral data, and main analysis codes used in the work: 
+The folder contains the task stimuli, behavioral data, and  major scripts and results reported in the work: 
 
 Liu, Lanfang., Jiang Jiahao., Li Hehui., and Ding Guosheng. (2024). Tripartite organization of brain state dynamics underlying spoken narrative comprehension. eLife. https://doi.org/10.7554/eLife.99997.1
 
